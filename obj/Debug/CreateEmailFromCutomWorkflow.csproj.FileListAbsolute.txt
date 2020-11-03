@@ -1,0 +1,13 @@
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\bin\Debug\CreateEmailFromCutomWorkflow.dll
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\bin\Debug\CreateEmailFromCutomWorkflow.pdb
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\obj\Debug\CreateEmailFromCutomWorkflow.csprojAssemblyReference.cache
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\obj\Debug\CreateEmailFromCutomWorkflow.csproj.CoreCompileInputs.cache
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\obj\Debug\CreateEmailFromCutomWorkflow.csproj.CopyComplete
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\obj\Debug\CreateEmailFromCutomWorkflow.dll
+C:\Users\848695\source\repos\CreateEmailFromCutomWorkflowSoln\CreateEmailFromCutomWorkflow\obj\Debug\CreateEmailFromCutomWorkflow.pdb
